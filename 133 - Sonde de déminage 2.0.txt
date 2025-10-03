@@ -1,0 +1,37 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°133
+
+Titre : Sonde de déminage 2.0
+Description : Le conflit en Ukraine montre un usage massif de la contre-mobilité : mines
+antipersonnel, mines antichar, bombes à dispersion de sous-munitions, et des d’explosifs de
+guerre non déclenchés, qui font aujourd’hui de l’Ukraine le pays le plus pollué au monde. A la fin
+du conflit, toute une partie des deux pays se retrouvera détruite et infestée d’engins qui
+n’auront pas explosé, rendant des centaines de milliers de kilomètres carrés impraticables et,
+surtout, causant de nouvelles victimes (souvent des enfants) pendant des dizaines années,
+comme l'ont démontré les conflits passés (les deux guerres mondiales, le Cambodge,
+l’Afghanistan …).
+Avec les méthodes classiques, le déminage prendrait 750 ans, c’est pourquoi nous nous sommes
+mis à la recherche de solutions adaptées à ce défi.
+Prérequis : pas de prérequis demandé dans le domaine de la défense.
+Objectif du projet : améliorer la performance des sondes amagnétiques qui détectent les mines
+terrestres.
+Contraintes : la sécurité du démineur est prioritaire,
+Livrables : deux sondes fonctionnelles qui devront être testées par les démineurs civils
+(Handicap International) et militaires.
+
+Informations sur le projet
+Compétences développées :
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, EVD, MDS, DIA, MMN, CCC
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : 3D, Embedded systems, IA, Robotique, Rugosité de surface,
+Traitement de donnée, Traitement du signal, UX
+
+Informations sur le partenaire
+Entreprise / Association / École : Hear & Know
+Nom : Lelièvre
+Prénom : Jean-Philippe
+
+

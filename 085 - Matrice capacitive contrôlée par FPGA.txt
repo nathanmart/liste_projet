@@ -1,0 +1,37 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°085
+
+Titre : Matrice capacitive contrôlée par FPGA
+Description : Au sein du LabCyber, espace d’exploration hardware situé au Campus Cyber et
+piloté par le PTCC, et au sein de l’IFT vous :
+- Mettrez en place une veille active sur les capteurs capacitifs et les outils open source liés aux
+FPGA
+- Prendrez en main les carte de développement FPGA du LabCyber (Radiona, Arty 7,…)
+- Mettrez en place un prototype de capteur capacitif et pour cela vous:
+- Développerez sur FPGA en python/migen/LiteX et/ou verilog/VHDL
+- Simulerez votre design
+- Une fois implémenté vous développerez en C, C++ ou Rust
+- Vous impliquerez au sein de communautés d’intérêt (Chercheurs, IHM, open hardware…)
+- Documenterez scrupuleusement votre travail afin de pouvoir le présenter aux équipes du
+LabCyber, du PTCC et de l’IFT
+- Publierez vos résultats pour que la communauté Open Hardware puisse s’en saisir
+Ce sujet requiert une appétence pour l’exploration technologique ainsi qu’une forte proactivité.
+Pour information le LabCyber est ouvert de 10h à 18h.
+Ressources :
+- https://marcteyssier.com/projects/skin-on/
+
+Informations sur le projet
+Compétences développées :
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, IRO, DIA, CCC
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : Embedded systems, IHM - Interface Homme Machine
+
+Informations sur le partenaire
+Entreprise / Association / École : IFT/PTCC
+Nom : Becq
+Prénom : Aline
+
+

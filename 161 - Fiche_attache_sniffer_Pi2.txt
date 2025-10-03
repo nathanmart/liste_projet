@@ -1,0 +1,79 @@
+Pi2 project proposal
+Hugo ALATRISTA-SALAS / Sonia DJEBALI
+
+Analyzing Indoor Movement Patterns
+via Raspberry Pi Network
+1
+
+Motivation and objectif
+
+Understanding how people move through physical spaces is becoming increasingly valuable in the age of
+ubiquitous connectivity and intelligent systems. Whether students navigate the halls of a university or
+customers browsing a shopping mall, their journeys tell a story that can inform design, improve services,
+and create more efficient environments.
+This project focuses on developing an indoor circulation graph using Internet of Things (IoT) devices.
+A circulation graph is a dynamic graph that models the flow or movement of entities through a network
+over time. In the context of indoor spaces, nodes represent physical locations (e.g., hallways, classrooms, or
+stores), and edges represent detected transitions or movement flows between these locations.
+The objective of this Pi2 project is twofold. First, to develop a Raspberry Pi-based network of sniffing devices for capturing Wi-Fi and Bluetooth packets. Second, to design and implement a Python-based
+prototype capable of analyzing and visualizing spatio-temporal behavioral patterns extracted from a circulation graph constructed using data from the sniffing devices. This system will enable the identification of
+high-traffic zones and reveal the temporal dynamics of movement between key areas.
+
+2
+
+Methodology
+
+The first step in this exploration will be to turn Raspberry Pi devices into sniffers capable of detecting Wi-Fi
+or Bluetooth signals from nearby smartphones [?, ?]. Using Python and libraries such as scapy or Pi Sniffer,
+students will develop a prototype that listens to ambient wireless traffic and logs anonymized data about
+device presence. This data will include elements like MAC addresses (anonymized or hashed), timestamps,
+and the identity of the sniffer that captured the packet.
+Once the basic functionality is in place, the system must be tested in a controlled environment. This phase
+will allow students to assess the effective range of detection, the impact of obstacles, and the consistency
+of data capture [?]. This step is crucial for understanding the limitations and practical realities of passive
+sniffing.
+With validated sniffers in hand, the next challenge will be scaling up. Then, students will work to design
+and deploy a network of these devices across selected indoor locations, for example, in classrooms in a
+university building or corridors in a mall. The devices will need to communicate with each other or a central
+server. Time synchronization will be critical to maintaining network coherence, so NTP can be used to align
+clocks across devices.
+Data obtained by the sniffer should then be stored in a centralized database (like SQLite3 or MySQL),
+a MongoDB database, or even a cloud-based solution. The proposal should be able to store raw packets, as
+well as derived transitions between sniffers (indicating user movement). From this structure, the circulation
+graph will begin to take form.
+
+1
+
+The graph will be built using Python-based graph libraries such as networkx or igraph. Each zone a
+sniffer covers will be a node in the graph, and edges will represent detected movements [?, ?]. With this
+structure in place, students will have a powerful tool to explore mobility patterns [?].
+
+3
+
+Summary
+• Title: Analyzing Indoor Movement Patterns via Raspberry Pi Network.
+• Project duration: ∼6 months.
+• Supervisor(s): Hugo ALATRISTA-SALAS / Sonia DJEBALI
+• Tools to be used: Python, Sqlite3/MySQL/MongoDB, Raspbian or Kali OS etc.
+• Place where the project will be carried out: Pôle Universitaire Léonard de Vinci / STARCS research
+team.
+
+References
+[1] Sudarshan Anand, Krishnendra Shekhawat, Karan Agrawal, et al. Automated generation of circulations
+within a floorplan. AI EDAM, 39:e9, 2025.
+[2] Arash Bahrehmand, Alun Evans, and Josep Blat. A computational metric of the quality of circulation in
+interior spaces. In 2014 International Conference on Information Visualization Theory and Applications
+(IVAPP), pages 130–137. IEEE, 2014.
+[3] Jin-kook Lee, Charles M Eastman, Jaemin Lee, Matti Kannala, and Yeon-suk Jeong. Computing walking distances within buildings using the universal circulation network. Environment and Planning B:
+Planning and Design, 37(4):628–645, 2010.
+[4] Yan Li, Johan Barthelemy, Shuai Sun, Pascal Perez, and Bill Moran. A case study of wifi sniffing
+performance evaluation. IEEE Access, 8:129224–129235, 2020.
+[5] ABM Musa and Jakob Eriksson. Tracking unmodified smartphones using wi-fi monitors. In Proceedings
+of the 10th ACM conference on embedded network sensor systems, pages 281–294, 2012.
+[6] Yusuf Turk, Onur Demir, and Sezer Gören. Real time wireless packet monitoring with raspberry pi
+sniffer. In Information Sciences and Systems 2014: Proceedings of the 29th International Symposium on
+Computer and Information Sciences, pages 185–192. Springer, 2014.
+
+2
+
+

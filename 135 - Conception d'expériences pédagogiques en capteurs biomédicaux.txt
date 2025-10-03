@@ -1,0 +1,54 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°135
+
+Titre : Conception d'expériences pédagogiques en capteurs biomédicaux
+Description : Introduction:
+Les capteurs jouent un rôle fondamental dans le domaine de la santé : suivi des constantes
+physiologiques, aide au diagnostique, dispositifs de rééducation, objets connectés médicaux
+etc... L'évolution rapide de ces technologies ouvre de nouvelles perspectives pour la médecine
+de demain mais nécessite aussi une bonne compréhension de leurs principes de
+fonctionnement, non seulement théorique mais également pratique.
+Dans le cadre du cours Sensors and Optoelectronics, il est essentiel de proposer aux étudiants
+des activités pratiques permettant de manipuler directement des capteurs biomédicaux, de
+réaliser des mesures, et de relier théorie et expérimentation. Pour enrichir et moderniser ce
+cours, nous proposons aux étudiants de 5eme année de Medtech et Santé de participer à la
+création de nouveaux travaux pratiques expérimentaux.
+Ce projet vise ainsi à concevoir, tester et documenter des expériences pédagogiques qui
+serviront de support aux futures promotions. Il s’agit d’un travail original où les étudiants ne
+seront pas seulement utilisateurs mais auteurs de contenus pédagogiques réutilisables.
+Travail demandé :
+1. Recherche bibliographique et benchmark :
+- Identifier les types de capteurs pertinents pour l’enseignement (ex. capteurs de pression,
+cardiofréquencemètres, oxymètres, capteurs de mouvement, spectroscopie simple).
+- Étudier des exemples de dispositifs pédagogiques existants et leurs limites.
+2. Conception des activités :
+- Définir la modalité des travaux : TP, projet clé en main, ateliers, etc...
+- Définir les protocoles expérimentaux adaptés au format choisi.
+- Choisir les composants matériels et électroniques nécessaires (budget alloué).
+- Élaborer les consignes et supports pédagogiques.
+3. Réalisation et validation
+- Prototyper les expériences.
+- Tester les protocoles en conditions réelles.
+- Adapter et améliorer les dispositifs pour garantir leur réutilisabilité.
+4. Production finale
+- Documenter les TP (fiches pratiques, guides étudiants et enseignants).
+- Préparer une démonstration finale.
+
+Informations sur le projet
+Compétences développées : Conception de dispositifs expérimentaux; instrumentation
+biomédicale et électronique appliquée; Analyse de données issue de capteurs; Pédagogie
+scientifique et vulgarisation; gestion de projet
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, EVD, MDS, DIA, MMN, CCC, OCC_Alt, EVD_Alt, MDS_Alt,
+DIA_Alt, MMN_Alt, CCC_Alt
+Année(s) concernée(s) : A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : Dispositifs médicaux, Santé connectée, Traitement du signal
+
+Informations sur le partenaire
+Entreprise / Association / École : DVHE
+Nom : Monniello
+Prénom : Léonard
+
+

@@ -1,0 +1,39 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°122
+
+Titre : Marquage/déplacement/neutralisation de mines et munitions
+Description : Le conflit en Ukraine montre un usage massif de la contre-mobilité : mines
+antipersonnel, mines antichar, bombes à dispersion de sous-munitions, et des d’explosifs de
+guerre non déclenchés, qui font aujourd’hui de l’Ukraine le pays le plus pollué au monde. A la fin
+du conflit, toute une partie des deux pays se retrouvera détruite et infestée d’engins qui
+n’auront pas explosé, rendant des centaines de milliers de kilomètres carrés impraticables et,
+surtout, causant de nouvelles victimes (souvent des enfants) pendant des dizaines années,
+comme l'ont démontré les conflits passés (les deux guerres mondiales, le Cambodge,
+l’Afghanistan …).
+Avec les méthodes classiques, le déminage prendrait 750 ans, c’est pourquoi nous nous sommes
+mis à la recherche de solutions adaptées à ce défi.
+Prérequis : pas de prérequis demandé dans le domaine de la défense.
+Objectif du projet : à partir de la détection réalisée par un autre groupe PI2 et de la position
+récupérée sur la cartographie, les mines et munitions en surface seront marquées et
+éventuellement déplacées et/ou désactivées.
+Contraintes : la solution attendue devra être montée sous drone, donc légère, peu volumineuse
+et bon marché.
+Livrables : devrait aboutir de préférence à une charge utile montable sous drone.
+
+Informations sur le projet
+Compétences développées : traitement de signal, analyse d'images, intelligence artificielle,
+machine learning, drone, robot,
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, MDS, DIA, MMN, CCC
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : Embedded systems, IA, IoT, Machine learning, Robotique,
+Traitement de donnée, Traitement du signal
+
+Informations sur le partenaire
+Entreprise / Association / École : Hear & Know
+Nom : Lelièvre
+Prénom : Jean-Philippe
+
+

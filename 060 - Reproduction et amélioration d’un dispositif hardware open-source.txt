@@ -1,0 +1,60 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°060
+
+Titre : Reproduction et amélioration d’un dispositif hardware open-source
+Description : Au sein du LabCyber, espace d’exploration hardware situé au Campus Cyber et
+piloté le PTCC, vous reproduirez en plusieurs exemplaires un dispositif open hardware.
+Celui-ci devra présenter :
+- Un intérêt pour la cybersécurité/le réseau
+- Être reproductible avec les moyens dont dispose le LabCyber
+Vous documenterez scrupuleusement votre travail pour permettre une sérialisation du dispositif
+notamment en partageant vos fichiers FAO (par exemple un .csv pour l’outil de placement de
+composants automatisé).
+Vous
+trouverez
+la
+liste
+des
+https://labcyber.ptcc.fr/#!/machines
+
+équipements
+
+du
+
+LabCyber
+
+à
+
+ce
+
+lien
+
+:
+
+Une fois le dispositif reproduit vous proposerez des améliorations à y apporter pour en renforcer
+la sécurité
+Vous prendrez pour ce projet part activement à la communauté open hardware
+Pour information le LabCyber est ouvert de 10h à 18h mais la partie électronique pourra
+également se faire au Pôle.
+Vous pouvez retrouver des projets open hardware sur ces sites :
+- https://certification.oshwa.org/list.html
+- https://www.crowdsupply.com/
+- https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
+- https://www.openhardware.io/explore
+
+Informations sur le projet
+Compétences développées : créativité, retroingénierie
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, DIA, CCC
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : Embedded systems, IoT
+
+Informations sur le partenaire
+Entreprise / Association / École : IFT/PTCC
+Nom : Becq
+
+Prénom : Aline
+
+

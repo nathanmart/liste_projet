@@ -1,0 +1,35 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°067
+
+Titre : Mise en place d’une injection de faute hardware
+Description : Au sein du LabCyber, espace d’exploration hardware situé au Campus Cyber et
+piloté le PTCC, vous :
+- Mettrez en place une veille active sur les attaques hardwares -et plus spécifiquement sur les
+injections de fautes
+- Prendrez en main les solutions existantes au sein du LabCyber pour vous familiariser avec les
+composants nécessaires
+- Vous impliquerez au sein de communautés d’intérêt (Chercheurs, pentesteurs…)
+- Définirez avec l’équipe du LabCyber une cible à glitcher
+- Mettrez en place un banc d’essai
+- Documenterez scrupuleusement votre travail afin de pouvoir le présenter aux équipes du
+LabCyber, du PTCC.
+Ce sujet requiert une appétence pour l’exploration technologique ainsi qu’une forte proactivité.
+Pour information le LabCyber est ouvert de 10h à 18h.
+La liste du matériel du LabCyber est consultable ici: https://labcyber.ptcc.fr/#!/machines
+Ressources : https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9930514
+
+Informations sur le projet
+Compétences développées : Sécurité matérielle
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, DIA, CCC
+Année(s) concernée(s) : A5, A4
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : Embedded systems, Security by design
+
+Informations sur le partenaire
+Entreprise / Association / École : IFT/PTCC
+Nom : Becq
+Prénom : Aline
+
+

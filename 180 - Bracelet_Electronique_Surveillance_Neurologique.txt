@@ -1,0 +1,47 @@
+Bracelet Intelligent de surveillance
+Neurologique médicalisée
+Client : Pierre Jaquet, Médecin neurologue et chef de service de
+réanimation à l’hôpital la fontaine à Saint-Denis
+pierre.jaquet@ch-stdenis.fr
+
+Equipe technique :
+Emmanuel Sarnette, Aline Becq, Nédra Mellouli
+Etudiants : creaTech, DIA, SB, OCC A4 ou A5
+Nombre de groupes : maximum 2
+
+Description du besoin :
+La septicémie est un état de santé grave qui survient lorsque le système immunitaire de
+l'organisme réagit de manière extrême à une infection. La réaction de l'organisme endommage
+ses propres tissus et organes. Le sepsis représente un fardeau important pour les soins de santé,
+à la fois en termes de résultats pour les patients et de coûts financiers, puisqu'il est à l'origine
+de plus de 50 % des décès à l'hôpital. La détection précoce du Sepsis pourrait s’appuyer sur le
+suivi ou le monitoring de l’actimétrie du patient en salle de réanimation. Il s’agit de surveiller
+les perturbations neurologiques du patient qui se traduisent par des agitations fréquentes et
+rapprochées. Pour cela, l’objectif du projet est de proposer un bracelet simple équipé de
+détecteur de mouvement, capable de transmettre les données du patient sur un serveur afin de
+les analyser au plus vite. Ce bracelet doit être capable de transmettre les données sans perte et
+d’une manière sécurisée. Le bracelet devra être à bas coût, réutilisable d’un patient à l’autre et
+surtout facile à désinfecter. Les objectifs de ce projet sont multiples et qui peuvent être
+regroupés en quatre catégories de tâches :
+1) Etat des lieux sur les bracelets disponibles sur le marché : il faut élaborer un état de
+l’art sur les bracelets fonctionnels afin de comprendre leur fonctionnement, leur
+technique de détection et de transmission des données, leur coût, leur cas d’usage
+2) La fabrication de prototypes de bracelet : il faut proposer plusieurs solutions
+techniques de bracelets en comparant le procédé de détection, le procédé d’envoie des
+données et l’analyse de la qualité des données collectées.
+3) L’analyse des données collectées : il s’agit de pouvoir détecter des motifs
+caractéristiques d’une forte activité ou d’une actimétrie élevée. C’est à partir du signal
+de mouvement d’un patient, il est intéressant de segmenter ce signal en cluster d’activité
+
+et de détecter les activités alarmantes qui soient fortement indicatrices d’activité
+neurologique anormale.
+4) L’étude de l’ergonomie du bracelet : il faut concevoir un bracelet qui respecte le bien
+être du patient, qui soit résistant aux chocs, facile à désinfecter, facile à réinitialiser,
+réutilisable, autonomie énergétique plus de 4h, facile à porter, peu nocif.
+
+Livrables :
+• Quelques prototypes avec une documentation technique
+• Analyse des données collectées
+• Une étude de faisabilité en terme de coût et d’ergonomie
+
+
