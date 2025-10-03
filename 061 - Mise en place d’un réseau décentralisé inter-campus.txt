@@ -1,0 +1,32 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°061
+
+Titre : Mise en place d’un réseau décentralisé inter-campus
+Description : Au sein du LabCyber, espace d’exploration hardware situé au Campus Cyber et
+piloté le PTCC, vous :
+- Mettrez en place une veille active sur les réseaux décentralisés
+- Evaluerez les solutions existantes et approfondirez une des options
+- Choisirez les équipements pertinents ainsi qu’une donnée à capter et partager
+- Intégrerez la communauté de ce réseau
+- Mettrez en place un réseau permettant de communiquer entre les différents campus du Pôle à
+la Défense
+- Documenterez scrupuleusement votre travail afin de pouvoir le présenter aux équipes du
+LabCyber, du PTCC
+Ce sujet requiert une appétence pour l’exploration technologique ainsi qu’une forte proactivité.
+Pour information le LabCyber est ouvert de 10h à 18h.
+
+Informations sur le projet
+Compétences développées : Communication
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, EVD, DIA, FIN, CCC
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : IoT
+
+Informations sur le partenaire
+Entreprise / Association / École : IFT/PTCC
+Nom : Becq
+Prénom : Aline
+
+

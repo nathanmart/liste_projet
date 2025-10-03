@@ -1,0 +1,52 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°134
+
+Titre : Robot terrestre de déminage autonome
+Description : A la fin des conflits du XXème et XXIème siècles, les terrains restent infestés de
+mines, de munitions et d’engins en tout genre qui n’ont pas explosé, rendant des centaines de
+milliers de kilomètres carrés impraticables et, surtout, causant de nouvelles victimes (souvent
+des enfants) pendant des dizaines d'années (Cambodge, Sierra Leone, Liban, Afghanistan, Syrie,
+Ukraine…).
+Avec les méthodes classiques, le déminage est une activité qui s’inscrit dans le temps long
+(plusieurs décennies). L’utilisation de plateformes robotisées autonomes, combinées à une IA
+traitant les données collectées en temps réel, permettrait d’appuyer l’action des démineurs
+militaires et/ou humanitaires, dans le but de travailler plus vite, plus efficacement, en tout temps
+(H24) et quelles que soient les conditions terrain ou météo.
+Prérequis : pas de prérequis demandé dans le domaine du déminage, la familiarité avec les
+robots terrestres, la mécanique, l’électronique, l’informatique, Raspberry Pi, serait un plus.
+Objectif du projet : à partir d’un robot terrestre, programmer la plateforme de manière à
+progresser de manière autonome dans un environnement connu et/ou inconnu : cartographie
+embarquée,
+capteurs
+de
+détection
+d’obstacle
+(caméras,
+radar,
+Lidar…),
+détection/identification/catégorisation d’objets, mesures de distances, géolocalisation, collecte
+et enregistrement des données et les reporter sur une carte pour traitement ultérieur.
+Contraintes : la solution attendue, une fois validée en laboratoire, devra pouvoir être démontrée
+sur tout type de terrain : chemin de terre, boue, neige, herbe, sable…
+Livrables : un robot terrestre progressant de manière autonome sur itinéraire programmable ou
+en mode découverte (reconnaissance du terrain en temps réel)
+
+Informations sur le projet
+Compétences développées : Robotique, mécanique, programmation, Raspberry Pi, traitement
+de signal, analyse d'images, intelligence artificielle, "machine learning", cartographie
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, IRO, DIA, MMN, CCC
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Non
+Mot(s)-clé(s) concerné(s) : 3D, Automobile, Embedded systems, IA, IHM - Interface Homme
+Machine, Industrie 4.0, IoT, Machine learning, Robotique, Traitement de donnée, Traitement du
+signal
+
+Informations sur le partenaire
+Entreprise / Association / École : Hear & Know
+Nom : Lelièvre
+
+Prénom : Jean-Philippe
+
+

@@ -1,0 +1,37 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°161
+
+Titre : Analyzing Indoor Movement Patterns via Raspberry Pi Network
+Description : Understanding how people move through physical spaces is becoming
+increasingly valuable in the age of ubiquitous connectivity and intelligent systems. Whether
+students navigate the halls of a university or customers browsing a shopping mall, their
+journeys tell a story that can inform design, improve services, and create more efficient
+environments.
+This project focuses on developing an indoor circulation graph using Internet of Things (IoT)
+devices. A circulation graph is a dynamic graph that models the flow or movement of entities
+through a network over time. In the context of indoor spaces, nodes represent physical locations
+(e.g., hallways, classrooms, or stores), and edges represent detected transitions or movement
+flows between these locations.
+The objective of this Pi2 project is twofold. First, to develop a Raspberry Pi-based network of
+sniffing devices for capturing Wi-Fi and Bluetooth packets. Second, to design and implement a
+Python-based prototype capable of analyzing and visualizing spatio-temporal behavioral patterns
+extracted from a circulation graph constructed using data from the sniffing devices. This system
+will enable the identification of high-traffic zones and reveal the temporal dynamics of movement
+between key areas.
+
+Informations sur le projet
+Compétences développées : Raspberry Pi Programming, IoT-based Network Deployment,
+Graph Mining
+Informations complémentaires : See the attached PDF file.
+Majeure(s) concernée(s) : OCC, DIA, CCC, P. HPC, OCC_Alt, DIA_Alt, CCC_Alt
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : Data Science, IoT, Python
+
+Informations sur le partenaire
+Entreprise / Association / École : ESILV - DVRC
+Nom : Alatrista-Salas
+Prénom : Hugo
+
+

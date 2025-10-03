@@ -1,0 +1,323 @@
+N° projet Nom
+Prénom
+1
+LAMBERT
+Vincent Marc
+60
+Becq
+Aline
+61
+Becq
+Aline
+62
+Becq
+Aline
+67
+Becq
+Aline
+69
+CHENDEB
+Nancy
+70
+CHENDEB
+Nancy
+71
+CHENDEB
+Nancy
+77
+Bogroff
+Alexis
+85
+Becq
+Aline
+87
+Vouldoukis
+Dimitri
+90
+SERRADJ
+Wassim
+91
+SERRADJ
+Wassim
+95
+Clain
+Pascal
+96
+Clain
+Pascal
+97
+Clain
+Pascal
+106
+HFAIEDH
+NAILA
+107
+HFAIEDH
+NAILA
+108
+Venkateswaran Swaminath
+112
+Clain
+Pascal
+122
+Lelièvre
+Jean-Philippe
+123
+Lelièvre
+Jean-Philippe
+128
+GUERCIH
+Mohamed
+133
+Lelièvre
+Jean-Philippe
+134
+Lelièvre
+Jean-Philippe
+135
+Monniello
+Léonard
+137
+Lelièvre
+Jean-Philippe
+139
+Monniello
+Léonard
+161
+Alatrista-Salas Hugo
+163
+dufournet
+Marc
+165
+Travers
+Nicolas
+175
+LEBON
+Nicolas
+180
+Jaquet,
+Pierre
+
+Entreprise A4
+A5 Titre du projet
+OCC_AltIRO_AltEVD_AltMDS_AltDIA_AltMMN_Alt
+CCC_AltFIN_Alt
+ESILV
+X
+Une plateforme de pricing CRR
+X
+IFT/PTCC
+X
+X Reproduction et amélioration d’un dispositif hardwareXopen-source
+X
+X
+IFT/PTCC
+X
+X Mise en place d’un réseau décentralisé inter-campus X
+X
+X
+X
+X
+IFT/PTCC
+X
+X Cyber Range: Passerelle vers l'OT (Hardware in the Loop)
+X
+X
+X
+X
+IFT/PTCC
+X
+X Mise en place d’une injection de faute hardware
+X
+X
+X
+ESILV
+X
+X Hybrid and Explainable Models for Financial Fraud Detection
+X
+X
+X
+ESILV
+X
+X Explainable Ensemble Learning for Fraud Detection in Financial Audit
+X
+X
+X
+ESILV
+X
+X Building a Meta-Model for Anomaly Detection in Financial Transactions
+X
+X
+X
+auto-entreprise X
+X IA & Computer Vision pour l’analyse automatique de vidéos de surf
+X
+X
+X
+IFT/PTCC
+X
+X Matrice capacitive contrôlée par FPGA
+X
+X
+X
+X
+Conseil départemental
+X
+XdesRenforcer
+Hauts-de-Seine
+la signalétique de la médiathèque de Bois-ColombesX
+X
+X
+personnel
+X
+X Fit Buddy : L’assistant IA du sportif et du coach
+X
+X
+X
+X
+personnel
+X
+X Fit Buddy - Capteur IoT pour le sport connecté
+X
+X
+X
+X
+X
+X
+X
+X
+ALDV
+X
+X Year-Round Charging Cost Simulator for Heavy-Duty EVs
+X
+X
+X
+X
+ALDV
+X
+X EV Eco-Speed Advisory App
+X
+X
+X
+X
+ALDV
+X
+X Data-Driven & Physics-Informed Calibration of a Simple EV Energy
+X Model
+X
+X
+X
+X
+DVRC/ Société KRICHEN
+X
+X deEtude
+Galvanoplastie,
+expérimentale
+SKG-et numérique d’un mélange en PC/ABS X
+X
+DVRC/ Société KRICHEN
+X
+X deEtude
+Galvanoplastie,
+expérimentale
+SKG-et numérique des polymères élaborés parX FDM et SLS
+X
+ESILV
+X
+X Olympiades Fanuc
+X
+X
+ALDV
+X
+X Développement d’un banc expérimental pour l’étude de l’impact et deXla solidification
+d’une goutte
+d’eau sur une plaque froide
+X
+X
+Hear & Know X
+X Marquage/déplacement/neutralisation de mines et munitions
+X
+X
+X
+X
+X
+Hear & Know X
+X Détection de mines sur Android et sur casque AR/VR
+X
+X
+X
+ESILV
+X Banc d’essai de vibrations libres et forcées – partie théorique
+X
+X
+Hear & Know X
+X Sonde de déminage 2.0
+X
+X
+X
+X
+X
+X
+Hear & Know X
+X Robot terrestre de déminage autonome
+X
+X
+X
+X
+X
+DVHE
+X Conception d'expériences pédagogiques en capteurs biomédicaux
+X
+X
+Hear & Know X
+X Conception et réalisation de mines d'entrainement connectées
+X
+X
+X
+X
+X
+X
+DVHE
+X
+X Conception d’un dispositif d’aide au diagnostic pour l’hypothyroïdie
+X
+X
+X
+ESILV - DVRC X
+X Analyzing Indoor Movement Patterns via Raspberry Pi XNetwork
+X
+X
+Pas encore
+X
+X Imprimante alimentaire et interface
+X
+X
+X
+X
+ESILV
+X
+X Plateforme de Recommandation Écologique de Bases NoSQL
+X
+X
+X
+ESILV
+X
+X Cobotized intra-oral dental scan using AI
+X
+X
+X
+X
+X
+Médecin neurologue
+X
+(l’hôpital
+X Bracelet
+la fontaine
+Intelligent
+à Saint-Denis)
+de surveillance Neurologique médicalisée
+X
+X
+X
+
+

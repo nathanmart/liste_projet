@@ -1,0 +1,40 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°062
+
+Titre : Cyber Range: Passerelle vers l'OT (Hardware in the Loop)
+Description : Au sein du LabCyber, espace d’exploration hardware situé au Campus Cyber et
+piloté le PTCC, vous reprendrez les travaux menés l’an passé sur le Cyber Range d’Airbus plateforme de simulation de systèmes IT et OT.
+Les groupes de l’an passé ont documenté la prise en main, la création de premières topologies
+de réseau et ont défriché l’ajout d’un hardware in the loop (hybridation d’une simulation avec un
+équipement réel).
+Il s’agit maintenant d’étudier la possibilité d’utiliser les FabLabs internes comme de possibles
+plateformes de sensibilisation et de test cyber IT/OT.
+Pour cela il s’agira de complexifier cette topologie -IRL et en simulation-, de la rendre plus
+réaliste et d’y scénariser de possibles attaques.
+Un challenge CTF pourra être imaginé sur la base de vos travaux.
+Pour plus de réalisme vous pourrez mener des interviews avec quelques FabManagers de
+l’association Fab&Co proches des enjeux industriels.
+Vous documenterez scrupuleusement votre travail afin de pouvoir le partager, sur la plateforme
+communautaire Airbus des utilisateurs de Cyber Range si vous poursuivez avec ce Cyber Range.
+Ce sujet requiert une appétence pour l’exploration technologique ainsi qu’une forte proactivité.
+Pour information le LabCyber est ouvert de 10h à 18h.
+Ressources :
+- https://www.youtube.com/watch?v=_4E9bLZidB0
+https://ecs-org.eu/ecso-uploads/2024/01/Cyber-Range-Features-Checklist-List-of-EuropeanProviders_v2-2024_final-1.pdf
+
+Informations sur le projet
+Compétences développées :
+Informations complémentaires :
+Majeure(s) concernée(s) : OCC, DIA, FIN, CCC
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : CyberRésilience, CyberSécurité, jumeau numérique, Simulation
+
+Informations sur le partenaire
+Entreprise / Association / École : IFT/PTCC
+
+Nom : Becq
+Prénom : Aline
+
+

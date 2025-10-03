@@ -1,0 +1,64 @@
+Projet D'Innovation Industrielle 4 & 5
+
+Projet n°091
+
+Titre : Fit Buddy - Capteur IoT pour le sport connecté
+Description : Le projet vise à concevoir et développer un prototype industrialisé et
+industrialisable de capteurs connectés pour machines de musculation.
+Ces capteurs constitueront le socle physique de la solution Fit Buddy, permettant de mesurer,
+suivre et transmettre en temps réel les données d’entraînement des utilisateurs.
+- Parties prenantes
+Fit Buddy : la startup qui porte la vision produit, les besoins marché et l’expertise
+technologique.
+Équipe étudiante : conception et prototypage des capteurs avec une approche orientée
+industrialisation.
+Utilisateurs finaux : sportifs et salles de sport qui testeront le système en conditions réelles.
+- Objectifs
+Développer un capteur autonome et fiable capable de mesurer : nombre de répétitions,
+vitesse/explosivité du mouvement, temps de repos, etc.
+Assurer une transmission robuste et sécurisée des données (BLE 5.4 Mesh, MQTT, TCP/IPv6,
+etc.) vers une passerelle type Raspberry Pi.
+Mettre en place des fonctions de stockage local temporaire pour éviter toute perte de données
+en cas de coupure réseau.
+Optimiser la consommation énergétique afin de garantir une autonomie suffisante en salle de
+sport.
+Développer un prototype industrialisé et industrialisable : PCB propre, boîtier robuste et design
+adapté à un usage intensif en salle de fitness.
+- Livrables attendus
+Prototype fonctionnel de capteur avec boîtier et carte électronique intégrée.
+Système de communication fiable (BLE Mesh + MQTT + Cloud).
+Documentation technique complète (schémas électroniques, protocole de communication, guide
+d’industrialisation).
+Rapport de tests en conditions réelles sur machines de musculation.
+
+Informations sur le projet
+Compétences développées : Électronique & IoT : conception PCB, capteurs de
+force/mouvement,
+optimisation
+énergétique.
+Firmware
+embarqué
+:
+programmation
+microcontrôleurs, traitement et compression des données. Communication sans fil : BLE 5.4
+Mesh, Wi-Fi, MQTT, sécurisation des échanges. Cloud & Data : envoi, stockage et exploitation
+des données en temps réel. Industrialisation : prototypage robuste, design produit, préparation
+à la fabrication. Méthodologie startup : travail agile, tests terrain, documentation technique.
+Informations complémentaires : Chaque équipe doit être composée par : -- 3 à 4 étudiants de
+la majeure Objets Connectés et Cybersécurité (OCC) -- 0 à 2 étudiants de la majeure Data et
+Intelligence Artificielle (DIA) -- 0 à 2 étudiants de la majeure Cloud Computing et Cybersécurité
+
+(CCC)
+Majeure(s) concernée(s) : OCC, IRO, EVD, MDS, DIA, MMN, FIN, CCC, OCC_Alt, IRO_Alt,
+EVD_Alt, MDS_Alt, DIA_Alt, MMN_Alt, CCC_Alt, FIN_Alt
+Année(s) concernée(s) : A4, A5
+Acceptera une équipe A4 si aucune équipe A5 ne se positionne : Oui
+Mot(s)-clé(s) concerné(s) : Cloud, Data Science, Embedded systems, IoT, Santé connectée,
+Traitement du signal
+
+Informations sur le partenaire
+Entreprise / Association / École : personnel
+Nom : SERRADJ
+Prénom : Wassim
+
+
